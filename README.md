@@ -26,7 +26,7 @@ I'm here to connect with fellow tech enthusiasts, developers, and creative minds
 
 📫 **Contact Me:**
 - Email: rithwik.dev@example.com
-- LinkedIn: [Rithwik Krishna](https://www.linkedin.com/in/rithwik-krishna)
+- LinkedIn: [Rithwik Krishna](https://www.linkedin.com/in/rithwik-krishna-b956221b4/)
 
 Looking forward to connecting with you! Let's make the tech world even more amazing together.
 

@@ -25,7 +25,7 @@ When I'm not immersed in lines of code, you can find me exploring the world of m
 I'm here to connect with fellow tech enthusiasts, developers, and creative minds. If you're passionate about coding, have exciting project ideas, or just want to have a chat, feel free to reach out to me. Collaboration fuels innovation, and I'm always open to new opportunities.
 
 📫 **Contact Me:**
-- Email: rithwik.dev@example.com
+- Email: rithwikkrishna0002@gmail.com
 - LinkedIn: [Rithwik Krishna](https://www.linkedin.com/in/rithwik-krishna-b956221b4/)
 
 Looking forward to connecting with you! Let's make the tech world even more amazing together.
